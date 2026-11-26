@@ -6,3 +6,5 @@ __pycache__/
 data/processed/
 checkpoints/
 data/raw/
+chronos-forecasting/
+results/forecasts/*.npz
